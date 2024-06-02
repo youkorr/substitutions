@@ -1,0 +1,6 @@
+  loading_illustration_file: https://github.com/esphome/firmware/raw/main/voice-assistant/casita/
+  idle_illustration_file: https://github.com/esphome/firmware/raw/main/voice-assistant/casita/idle_320_240.png
+  listening_illustration_file: https://github.com/esphome/firmware/raw/main/voice-assistant/casita/listening_320_240.png
+  thinking_illustration_file: https://github.com/esphome/firmware/raw/main/voice-assistant/casita/thinking_320_240.png
+  replying_illustration_file: https://github.com/esphome/firmware/raw/main/voice-assistant/casita/replying_320_240.png
+  error_illustration_file: https://github.com/esphome/firmware/raw/main/voice-assistant/casita/error_320_240.png
